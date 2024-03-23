@@ -1,4 +1,4 @@
-# paper-list-for-M-LLMRec-VideoRec
+# List of Papers that use (Multimodal) LLMs for Recommendation
 a paper list about (M)LLM/Rec/VideoRec
 
 Each paper is listed with the paper title/Admission Conference/release date/summary/opinion/paper link.
